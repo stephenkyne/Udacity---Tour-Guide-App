@@ -1,0 +1,495 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Tab Strings -->
+    <string name="tab_museum">Museum</string>
+    <string name="tab_food">Food</string>
+    <string name="tab_drink">Drink</string>
+    <string name="tab_hotel">Hotel</string>
+
+    <!-- Museum Fragment Strings -->
+    <!-- Name Strings -->
+    <string name="name_maritime">National Maritime Museum</string>
+    <string name="name_cutty_sark">Cutty Sark</string>
+    <string name="name_oberavtory">Royal Observatory Greenwich</string>
+    <string name="name_queen">Queen\'s House</string>
+    <string name="name_ranger">Ranger\'s House</string>
+    <string name="name_old_college">Old Royal Naval College</string>
+    <string name="name_planetarium">Peter Harrison Planetarium</string>
+    <string name="name_prime">Prime Meridian</string>
+    <string name="name_painted">Painted Hall</string>
+    <string name="name_alfege">St Alfege Church</string>
+
+    <!-- Museum Telephone Numbers Strings -->
+    <string name="museum_tel_maritime">0208 000001</string>
+    <string name="museum_tel_cutty_sark">0208 000002</string>
+    <string name="museum_tel_oberavtory">0208 000003</string>
+    <string name="museum_tel_queen">0208 000004</string>
+    <string name="museum_tel_ranger">0208 000005</string>
+    <string name="museum_tel_old_college">0208 000006</string>
+    <string name="museum_tel_planetarium">0208 000007</string>
+    <string name="museum_tel_prime">0208 000008</string>
+    <string name="museum_tel_painted">0208 000009</string>
+    <string name="museum_tel_alfege">0208 000010</string>
+
+    <!-- Museum address Numbers Strings -->
+    <string name="address_museum_maritime">Romney Rd, London, SE10 9NF</string>
+    <string name="address_museum_cutty_sark">King William Walk, London, SE10 9HT</string>
+    <string name="address_museum_oberavtory">Blackheath Ave, London, SE10 8XJ</string>
+    <string name="address_museum_queen">Romney Rd, London SE10 9NF</string>
+    <string name="address_museum_ranger">Chesterfield Walk, London SE10 8QX</string>
+    <string name="address_museum_old_college">King William Walk, London SE10 9NN</string>
+    <string name="address_museum_planetarium">Blackheath Ave, London SE10 8XJ</string>
+    <string name="address_museum_prime">London SE10 8XJJ</string>
+    <string name="address_museum_painted">College Way, London SE10 9NN</string>
+    <string name="address_museum_alfege">Greenwich Church St, London SE10 9BJ</string>
+
+    <!-- Museum Website Numbers Strings -->
+    <string name="website_museum_maritime">https://www.rmg.co.uk/national-maritime-museum</string>
+    <string name="website_museum_cutty_sark">https://www.rmg.co.uk/cutty-sark</string>
+    <string name="website_museum_oberavtory">https://www.rmg.co.uk/royal-observatory</string>
+    <string name="website_museum_queen">https://www.rmg.co.uk/queens-house</string>
+    <string name="website_museum_ranger">https://www.english-heritage.org.uk/visit/places/rangers-house-the-wernher-collection</string>
+    <string name="website_museum_old_college">https://ornc.org/</string>
+    <string name="website_museum_planetarium">https://www.rmg.co.uk/whats-on/planetarium-shows</string>
+    <string name="website_museum_prime">https://www.rmg.co.uk/stories/topics/what-prime-meridian-why-it-greenwich</string>
+    <string name="website_museum_painted">https://ornc.org/our-story/royal-hospital/painted-hall/</string>
+    <string name="website_museum_alfege">http://www.st-alfege.org.uk/</string>
+
+    <!-- About Strings -->
+    <string name="about_maritime">
+	Royal Museums Greenwich holds over 2.5 million items, including astronomical and navigational
+        instruments, ship models and plans, coins, medals and flags, uniforms and weapons,
+        plus historical art, film and photography. The National Maritime Museum also contains the
+        world\'s largest maritime library and archive collection.
+</string>
+
+    <string name="about_cutty_sark">
+	Cutty Sark, the celebrated historic sailing ship and fastest of its time. Now an award-winning
+        visitor attraction in Greenwich, London.
+</string>
+
+    <string name="about_oberavtory">
+	The observatory was commissioned in 1675 by King Charles II. It is the home of Greenwich Mean
+        Time (GMT), the Prime Meridian of the world
+</string>
+
+    <string name="about_queen">
+	A former royal residence built between 1616. Home to an internationally renowned art collection
+        , Inigo Jones\’ architectural masterpiece is the first Classical building in the UK.
+</string>
+
+    <string name="about_ranger">
+	Ranger\’s House is an elegant Georgian villa on the boundary of Greenwich Park and Blackheath
+        which houses The Wernher Collection, a world-class art collection amassed by the
+        19th-century businessman, Sir Julius Wernher.
+</string>
+
+    <string name="about_old_college">
+	The Old Royal Naval College is the architectural centrepiece of Maritime Greenwich, built
+        between 1696 and 1712, a World Heritage Site described UNESCO as being of \"outstanding
+        universal value\" and reckoned to be the \"finest and most dramatically sited architectural
+        and landscape ensemble in the British Isles\".
+</string>
+
+    <string name="about_planetarium">
+	Join Royal Observatory astronomers and leading scientists on a fascinating journey into space,
+        from planetarium shows and science sessions for kids to in-depth astronomy courses and
+        community events.
+</string>
+
+    about_painted
+    <string name="about_painted">
+	The Painted Hall is a true masterpiece, boasting one of the most spectacular Baroque interiors
+        in Europe. The extraordinary ceiling and wall decorations were conceived and executed by
+        British artist Sir James Thornhill. The epic painting scheme, known as \‘Britain\’s Sistine
+        Chapel\’ took nineteen years from the start of the commission to its completion in 1726.
+</string>
+    <string name="about_prime">
+	A meridian is a north-south line, selected as the zero reference line for astronomical
+        observations. By comparing thousands of observations taken from the same meridian it\'s
+        possible to build up an accurate map of the sky
+</string>
+
+    <string name="about_alfege">
+	St Alfege Church begins in 1012, when Danish warriors killed a hostage they had taken during
+        their raid on Canterbury. The murder of Alfege, Archbishop of Canterbury, here in Greenwich
+        led to the building of the first church. the medieval church was replaced in 1718.
+</string>
+    <!-- END of Fragment Strings -->
+
+    <!-- Start of Hotel Fragment Strings -->
+
+    <!-- Name Strings -->
+    <string name="name_travelodge">Travelodge</string>
+    <string name="name_novotel">Novotel</string>
+    <string name="name_bird_nest">The Birds Nest</string>
+    <string name="name_innkeeper">Innkeeper\'s Collection</string>
+    <string name="name_ibis">ibis</string>
+    <string name="name_doubleTreee">DoubleTree</string>
+    <string name="name_chris_inn">St Christopher\'s Inn</string>
+    <string name="name_deveonport">De Vere Devonport House</string>
+    <string name="name_premier_inn">Premier Inn</string>
+    <string name="name_clarendon">The Clarendon</string>
+
+    <!-- Hotel address Strings -->
+    <string name="address_hotel_travelodge">Greenwich High Road, Greenwich High Rd, London SE10 8JA</string>
+    <string name="address_hotel_novotel">173\-185 Greenwich High Rd, London SE10 8JA</string>
+    <string name="address_hotel_bird_nest">32 Deptford Church St, London SE8 4RZ</string>
+    <string name="address_hotel_innkeeper">The Mitre, 291 Greenwich High Rd, London SE10 8NA</string>
+    <string name="address_hotel_ibis">30 Stockwell St, London SE10 9JN</string>
+    <string name="address_hotel_doubleTreee">Catherine Grove, London SE10 8BB</string>
+    <string name="address_hotel_chris_inn">189 Greenwich High Rd, London SE10 8JA</string>
+    <string name="address_hotel_deveonport">King William Walk, London SE10 9JW</string>
+    <string name="address_hotel_premier_inn">T1\-13 Lewisham High St, London SE13 5AF</string>
+    <string name="address_hotel_clarendon">Montpelier Row, Blackheath, London SE3 0RW</string>
+
+    <!-- Hotel Telephone Numbers Strings -->
+    <string name="hotel_tel_travelodge">0208 000301</string>
+    <string name="hotel_tel_novotel">0208 000302</string>
+    <string name="hotel_tel_bird_nest">0208 000303</string>
+    <string name="hotel_tel_innkeeper">0208 000304</string>
+    <string name="hotel_tel_ibis">0208 000305</string>
+    <string name="hotel_tel_doubleTreee">0208 000306</string>
+    <string name="hotel_tel_chris_inn">0208 000307</string>
+    <string name="hotel_tel_deveonport">0208 000308</string>
+    <string name="hotel_tel_premier_inn">0208 000309</string>
+    <string name="hotel_tel_clarendon">0208 000310</string>
+
+    <!-- Hotel Websites Numbers Strings -->
+    <string name="website_hotel_travelodge">https://www.travelodge.co.uk/hotels/594/London-Greenwich-High-Road-hotel</string>
+    <string name="website_hotel_novotel">https://all.accor.com/hotel/3476/index.en.shtml</string>
+    <string name="website_hotel_bird_nest">http://www.thebirdsnestpub.co.uk</string>
+    <string name="website_hotel_innkeeper">https://www.innkeeperslodge.com/hotel/the-mitre-greenwich-london</string>
+    <string name="website_hotel_ibis">https://www.guestreservations.com/ibis-london-greenwich/booking</string>
+    <string name="website_hotel_doubleTreee">https://www.hilton.com/en/hotels/longwdi-doubletree-london-greenwich/</string>
+    <string name="website_hotel_chris_inn">https://www.st-christophers.co.uk/london/greenwich-hostel</string>
+    <string name="website_hotel_deveonport">https://www.devere.co.uk/grand-connaught-rooms/</string>
+    <string name="website_hotel_premier_inn">https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-lewisham.html</string>
+    <string name="website_hotel_clarendon">https://www.clarendonhotel.com/</string>
+
+    <!-- About Strings -->
+    <string name="about_hotel_travelodge">
+	The hotel is surrounded by must-see attractions like the Cutty Sark and beautiful Greenwich Park.
+        A stone\'s throw from Greenwich Station and the DLR, it\'s also ideal for exploring the city
+        centre.
+</string>
+
+    <string name="about_hotel_novotel">
+	the stylish elegance of the Novotel London Greenwich hotel, which features bright, spacious
+        bedrooms and colourful artwork throughout. Neighbouring Greenwich tube station, the 4-star
+        hotel is a great choice for travellers interested in live music, riverside walks and nightlife.
+        This modern hotel offers private on-site parking and boasts a fitness centre, a stylish
+        restaurant, and spacious bedrooms.
+
+
+</string>
+
+    <string name="about_hotel_birds_nest">
+	TThe Birds Nest has evolved into a fantastic, international music and arts venue while retaining
+        its original South London flavour. Located at the end of Creekside and on the borders of
+        Greenwich and Deptford
+</string>
+
+    <string name="about_hotel_innkeeper">
+	Conveniently located near the Thames in the heart of the world heritage site of Greenwich,
+        The Mitre should be your first port of call if you’re looking for the best value
+        accommodation in central London, without compromising on comfort or style
+</string>
+
+    <string name="about_hotel_ibis">
+	Relax with a drink in our stylish 24hr lobby bar, stay connected with free fibre Wi-Fi
+        throughout the building, and tuck into a filling breakfast (cooked breakfast with several
+        options or a fresh continental spread - the choice is yours) each morning at the linked
+        Café Rouge. ibis London Greenwich merges a great location with all the necessary comforts,
+        so that you enjoy a relaxing break at budget-friendly prices.
+</string>
+
+    <string name="about_hotel_doubletree">
+	Our 1940s hotel was once a police headquarters. Today, our RIBA-award winning building fuses
+        history with contemporary design. Deptford Bridge Station is within streets, and we’re a
+        mile from the National Maritime Museum, Cutty Sark, and the Royal Observatory. We serve
+        afternoon tea, and every stay begins with a warm chocolate chip cookie.
+</string>
+
+    <string name="about_hotel_christophers">
+	Located a short walk from Greenwich station and the DLR train line, staying in Greenwich gives
+        guests the opportunity to enjoy the peaceful charm of the historic area combined with fast
+        links to London’s fast-paced action in the city centre. London Bridge can be reached in
+        just 10 minutes.
+</string>
+
+
+    <string name="about_hotel_devonport">
+	Amazing hotel with free, superfast Wi-Fi with a maximum bandwidth of 1Gb is available
+        throughout the venue.
+</string>
+    <string name="about_hotel_premierinn">
+	A bustling south of the river spot, with great links to central London and Canary Wharf.
+        Walking from Lewisham Station
+</string>
+
+    <string name="about_hotel_clarendon">
+	With uninterrupted views of Blackheath towards Royal Greenwich Park, this Georgian Hotel is
+        both grand and welcoming with its relaxed yet efficient style.
+</string>
+    <!-- END of Hotel Fragment Strings -->
+
+    <!-- Start of Food Fragment Strings -->
+
+    <!-- Name Strings -->
+    <string name="name_food_goddards">Goddards at Greenwich</string>
+    <string name="name_food_franco_manca">Franco Manca Greenwich</string>
+    <string name="name_food_cutty_sark_restaurant">Cutty Sark Restaurant</string>
+    <string name="name_food_galley_cafe">Galley Cafe Bar</string>
+    <string name="name_food_mcdonalds">McDonald\'s</string>
+    <string name="name_food_nandos">Nando\'s</string>
+    <string name="name_food_pavilion_cafe">The Pavilion Cafe</string>
+    <string name="name_food_astronomy_cafe">Astronomy Cafe</string>
+    <string name="name_food_gbk">Gourmet Burger Kitchen</string>
+    <string name="name_food_tamashi_sushi">Tamashi Sushi</string>
+
+    <!-- Food address numbers Strings -->
+    <string name="address_food_goddards">22 King William Walk, London SE10 9HU</string>
+    <string name="address_food_franco_manca">22 King William Walk, London SE10 9HU</string>
+    <string name="address_food_cutty_sark_restaurant">38 Greenwich Church St, London SE10 9BL</string>
+    <string name="address_food_galley_cafe">180 Greenwich High Rd, London SE10 8NN</string>
+    <string name="address_food_mcdonalds">Cutty Sark, 2 Welland St, London SE10 9EJ</string>
+    <string name="address_food_nandos">Cutty Sark, West Unit, King William Walk, Greenwich S St, London SE10 9HT</string>
+    <string name="address_food_pavilion_cafe">Charlton Way, London SE10 8QY</string>
+    <string name="address_food_astronomy_cafe">Astronomy Cafe, The Avenue, London SE10 8XJ</string>
+    <string name="address_food_gbk">45 Greenwich Church St, London SE10 9BL</string>
+    <string name="address_food_tamashi_sushi">Greenwich Market, London SE10 9HZ</string>
+
+    <!-- Food telephone numbers Strings -->
+    <string name="tel_food_goddards">0208 000201</string>
+    <string name="tel_food_franco_manca">0208 000202</string>
+    <string name="tel_food_cutty_sark_restaurant">0208 000203</string>
+    <string name="tel_food_galley_cafe">0208 000204</string>
+    <string name="tel_food_mcdonalds">0208 000205</string>
+    <string name="tel_food_nandos">0208 000206</string>
+    <string name="tel_food_pavilion_cafe">0208 000207</string>
+    <string name="tel_food_astronomy_cafe">0208 000208</string>
+    <string name="tel_food_gbk">0208 000209</string>
+    <string name="tel_food_tamashi_sushi">0208 000210</string>
+
+    <!-- Food Websites Numbers Strings -->
+    <string name="website_food_goddards">https://www.goddardsatgreenwich.co.uk</string>
+    <string name="website_food_franco_manca">https://www.francomanca.co.uk/</string>
+    <string name="website_food_cutty_sark_restaurant">https://www.cuttysarkrestaurant.co.uk/</string>
+    <string name="website_food_galley_cafe">https://www.picturehouses.com/cinema/greenwich-picturehouse/food-and-drink</string>
+    <string name="website_food_mcdonalds">https://www.mcdonalds.com/gb/en-gb/location/greenwich/greenwich-cutty-sark/2-crescent-arcade/8261246.html</string>
+    <string name="website_food_nandos">https://www.nandos.co.uk/restaurants/greenwich-cutty-sark</string>
+    <string name="website_food_pavilion_cafe">https://www.royalparks.org.uk/parks/greenwich-park/food-and-drink/the-pavilion-cafe</string>
+    <string name="website_food_astronomy_cafe">https://www.rmg.co.uk/royal-observatory/eat-drink-shop/astronomy-caf%C3%A9-and-terrace</string>
+    <string name="website_food_gbk">https://restaurants.gbk.co.uk/london/greenwich</string>
+    <string name="website_food_tamashi_sushi">https://www.instagram.com/tamashi_sushi1/</string>
+
+    <!-- About Strings -->
+    <string name="about_food_goddards">
+	The Goddard\’s Pie and Mash business was founded in 1890 by Alfred Goddard in Evelyn Street,
+        Deptford, London. Pies have been the staple diet of Londoners for centuries and the London
+        ‘pie and mash’ shops offer a meal that is steeped in history and ingrained in the very
+        fabric of London.
+</string>
+
+    <string name="about_food_franco">
+	Fresh handmade pizza made to your personal specification in a timely manner. Any size you want,
+        any topping your heart desires and with any sides too. You can eat in with us or order for
+        takeaway. Whatever you.
+</string>
+
+    <string name="about_food_c_s_restaurant">
+	We are located in Greenwich Market on Thursday till Sunday. All are food is fresh and made
+        from the fresh and the highest quality. Are food with made with love and a passion that you
+        will enjoy and want more.
+</string>
+
+    <string name="about_food_tasmashi">
+	We are located in Greenwich Market on Thursday till Sunday. All are food is fresh and made
+        from the fresh and the highest quality. Are food with made with love and a passion that you
+        will enjoy and want more.
+</string>
+
+    <string name="about_food_galley_cafe">
+	The beautifully designed Gallery curves gracefully around our on-site kitchen and our sofa area
+        – the perfect spot for a time-out with a nice hot drink or a glass of wine in the evening.
+        We prepare all of our meals and snacks from carefully sourced food, including plenty of
+        British produce. We serve breakfast, lunch and dinner.
+</string>
+
+    <string name="about_food_mcdonald">
+	McDonald\'s is Classic, long-running fast-food chain known for its burgers, fries, shakes and
+        ice creams. Are food is always fresh, tasty and great value for money. You can eat in as we
+        have seating upstairs as well as down stairs. You can also get takeaway if you want.
+</string>
+
+    <string name="about_food_nando">
+	Located a short walk from Greenwich station and the DLR train line, and next to the Cutty Sark
+        ship. We are on the bank of the river and have amazing views in our seating areas. We have
+        both indoor and outside side seat. Our food is freshly made and great tasting.
+</string>
+
+
+    <string name="about_food_pavilion_cafe">
+	You\'ll find the recently refurbished Pavilion Café at the top of the hill by the Royal
+        Observatory. Built in 1906 this octagonal building is topped by a dove-cot with a weather
+        vane showing Nelson looking through his telescope. In fine weather make the most of the
+        large garden at the front and rear. In the winter, the Pavilion Café is a cosy, welcoming
+        place to visit.
+</string>
+    <string name="about_food_astronomy_cafe">
+	Located in the heart of the astronomy buildings in the Royal observatory at Greenwich. While
+        you are seeing the sights and history there come in, have a rest, a bite to eat and
+        something to drink. We have a wide range of foods and drinks for you to select.
+</string>
+
+    <string name="about_food_gbk">
+	We\'re open for Dine-in, Order and Collect via the app or for Delivery! Since 2001, Gourmet
+        Burger Kitchen has been serving up unique flavour combinations between 2 buns (or without
+        the bun, if you like). Ask for it rare or well done or however you want it! Also try one of
+        our mind-meltingly good milkshakes made with real ice cream
+</string>
+    <!-- END of Food Fragment Strings -->
+
+    <!-- Start of Drinks Fragment Strings -->
+
+    <!-- Name Strings -->
+    <string name="name_drink_gipsy">The Gipsy Moth</string>
+    <string name="name_drink_cutty_sark">The Cutty Sark</string>
+    <string name="name_drink_trafalga_tavern">Trafalgar Tavern</string>
+    <string name="name_drink_ad_hardy">The Admiral Hardy</string>
+    <string name="name_drink_richard_first">Richard The First\'s</string>
+    <string name="name_drink_mitre">The Mitre</string>
+    <string name="name_drink_gate_clock">The Gate Clock</string>
+    <string name="name_drink_coach_horses">Coach and Horses</string>
+    <string name="name_drink_sail_loft">The Sail Loft Kitchen</string>
+    <string name="name_drink_kings_arms">Kings Arms</string>
+
+    <!-- Drinks address numbers Strings -->
+    <string name="address_drink_gipsy">60 Greenwich Church St, London SE10 9BL</string>
+    <string name="address_drink_cutty_sark">4\-6 Ballast Quay, London SE10 9PD</string>
+    <string name="address_drink_trafalga_tavern">Park Row, London SE10 9NW</string>
+    <string name="address_drink_ad_hardy">7 College Approach, London SE10 9HY</string>
+    <string name="address_drink_richard_first">352 Royal Hill, London SE10 8RT</string>
+    <string name="address_drink_mitre">291 Greenwich High Rd, London SE10 8NA</string>
+    <string name="address_drink_gate_clock">Cutty Sark Station, 210 Creek Rd, London SE10 9RB</string>
+    <string name="address_drink_coach_horses">Greenwich Market, London SE10 9HZ</string>
+    <string name="address_drink_sail_loft">11 Victoria Parade, London SE10 9FR</string>
+    <string name="address_drink_kings_arms">16 King William Walk, London SE10 9JH</string>
+
+    <!-- Drinks telephone numbers Strings -->
+    <string name="tel_drink_gipsy">0208 000101</string>
+    <string name="tel_drink_cutty_sark">0208 000102</string>
+    <string name="tel_drink_trafalga_tavern">0208 000103</string>
+    <string name="tel_drink_ad_hardy">0208 000104</string>
+    <string name="tel_drink_richard_first">0208 000105</string>
+    <string name="tel_drink_mitre">0208 000106</string>
+    <string name="tel_drink_gate_clock">0208 000107</string>
+    <string name="tel_drink_coach_horses">0208 000108</string>
+    <string name="tel_drink_sail_loft">0208 000109</string>
+    <string name="tel_drink_kings_arms">0208 000110</string>
+
+    <!-- Drinks Websites numbers Strings -->
+    <string name="website_drink_gipsy">https://www.thegipsymothgreenwich.co.uk/drink</string>
+    <string name="website_drink_cutty_sark">https://www.cuttysarkse10.co.uk/</string>
+    <string name="website_drink_trafalga_tavern">http://www.trafalgartavern.co.uk/menus.html</string>
+    <string name="website_drink_ad_hardy">http://www.admiralhardygreenwich.co.uk/</string>
+    <string name="website_drink_richard_first">"https://www.richardthefirst.co.uk/</string>
+    <string name="website_drink_mitre">https://www.themitregreenwich.co.uk/</string>
+    <string name="website_drink_gate_clock">https://www.jdwetherspoon.com/pubs/all-pubs/england/london/the-gate-clock-greenwich</string>
+    <string name="website_drink_coach_horses">https://www.the-coach-and-horses.co.uk/food-and-drink\</string>
+    <string name="website_drink_sail_loft">https://www.sailloftgreenwich.co.uk/</string>
+    <string name="website_drink_kings_arms">https://www.greeneking-pubs.co.uk/pubs/greater-london/kings-arms-greenwich</string>
+
+    <!-- About Strings -->
+    <string name="about_drink_gipsy_mouth">
+	TCombining the best in British pub hospitality with individuality, character and quirky charm,
+        The Gipsy Moth is a Grade I listed pub at the thriving centre of Greenwich. Within view of
+        the famous Cutty Sark, The Gipsy Moth is the perfect setting for a laid-back yet distinctly
+        memorable drinking and dining experience. The Gipsy Moth offers flavoursome food, an
+        explorative drinks menu and an authentic, homely atmosphere to suit all occasions.
+</string>
+
+    <string name="about_drink_cutty_sark">
+	Sat on the banks of the Thames at Ballast Quay, The Cutty Sark has welcomed guests to Greenwich
+        for over two hundred years. We are proud to be part of this long-standing tradition of
+        serving the very best of premium British produce in all of our seasonal dishes, accompanied
+        by fine wines around the world and locally great real ales to pair with your tasty meal.
+</string>
+
+    <string name="about_drink_trafalgar">
+	A historic landmark, where the past lives on in the present. Built on the site of The Old George
+        Inn in 1837, the year of Queen Victoria’s ascension to the throne, this Grade II-listed
+        building has taken many forms. Through Victoria’s reign it was frequented by Charles Dickens
+        who chose the Trafalgar Tavern as the setting for the wedding breakfast in Our Mutual
+        Friend, his final novel.
+</string>
+
+    <string name="about_drink_hardy">
+	At the corner of the market, centrally located in the heart of Greenwich, The Admiral Hardy is
+        your ideal British local, catering to families, tourist and students alike. With craft
+        beer, real ale and mouthwatering fish and chips we are sure to have something for everyone.
+</string>
+
+    <string name="about_drink_richard_first">
+	Located on the historic Royal Hill, a stone\’s throw away from the centre of Greenwich, and only
+        400m from Greenwich DLR station. The Richard the First is proud to have been at the heart
+        of the local community since 1923.
+</string>
+
+    <string name="about_drink_mitre">
+	The Mitre is a Grade II listed public house built around 1840 located in the centre of
+        Greenwich. It is a beautiful traditional pub with inside and outside seating. We have a wide
+        selection of beers ales wines and spirits.
+</string>
+
+    <string name="about_drink_gate_clock">
+	A JD Wetherspoon\'s pub located next to the Cutty Sark DLR station and the heart of Greenwich.
+        We have a wide selection beers ales wines and spirits and unbelievable cheap prices. Are
+        food is tasty and great value for money.
+</string>
+
+
+    <string name="about_drink_coach_horses">
+	The Coach and Horses is situated slap bang in the centre of Greenwich\’s famous market, just
+        around the corner from such as the Cutty Sark, the National Maritime Museum and the Royal
+        Observatory. Steeped in royal history, we’re a popular pub for shoppers and tourists alike
+        since 1780.
+</string>
+    <string name="about_drink_sail_loft">
+	Just a short stroll away from the Cutty Sark, Greenwich Observatory and the National Maritime
+        Museum, The Sail Loft makes the perfect lunch stop on the tourist trail. The famous
+        Greenwich Market is close at hand too. We have a wide selection of beers ales wines and
+        spirits.
+</string>
+
+    <string name="about_drink_king_arms">
+	Pub lunches, date nights and after work drinks, it\’s been a year of lost moments. So, say
+        goodbye to the video calls, catch up TV and loungewear. Dig out those glad rags because
+        it\’s nearly time to raise a glass, together at last!
+</string>
+    <!-- END of Drinks Fragment Strings -->
+
+    <!-- Details Activity -->
+
+    <!-- Icons bottom text -->
+    <string name="call">Call</string>
+    <string name="share">Share</string>
+    <string name="website">Website</string>
+    <string name="directions">Directions</string>
+
+    <!-- Toast messages text -->
+    <string name="copied">Copied</string>
+
+    <!-- labels used in Intents on DetailsActivity.java-->
+    <string name="about">About</string>
+    <string name="label_website">Venue Website; </string>
+    <string name="label_address">Venue Address; </string>
+    <string name="label_telephone">Telephone Number; </string>
+    <string name="google_maps_url">http://maps.google.co.in/maps?q=</string>
+    <string name="label_tel">tel</string>
+    <string name="label_text_plan"></string>
+
+</resources>

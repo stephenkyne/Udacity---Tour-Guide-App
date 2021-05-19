@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".DetailsActivity"
+        android:padding="8dp">
+
+
+        <ImageView
+            android:id="@+id/details_image"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/main_cutty_sark"/>
+
+        <TextView
+            style="@style/main_text_style"
+            android:id="@+id/details_name_text_view"
+            tools:text="Greenwich Venue"
+            android:textSize="24sp"
+
+            android:paddingBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/details_address_text_view"
+            style="@style/main_text_style"
+            tools:text="42 Greenwich High Road, London SE10 3LJ"/>
+
+        <TextView
+            style="@style/bar" />
+
+
+        <LinearLayout
+            style="@style/default_sub_layout">
+
+            <LinearLayout
+                style="@style/icon_layouts"
+                android:id="@+id/details_call_layout">
+
+                <ImageView
+                    android:id="@+id/details_telephone_image_view"
+                    style="@style/icon_imageview"
+                    android:src="@drawable/baseline_call_black_48" />
+
+                <TextView
+                    style="@style/icon_text"
+                    android:text="@string/call" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/details_share_layout"
+                style="@style/icon_layouts">
+
+                <ImageView
+                    android:id="@+id/details_share_image_view"
+                    style="@style/icon_imageview"
+                    android:src="@drawable/baseline_share_black_48" />
+
+                <TextView
+                    style="@style/icon_text"
+                    android:text="@string/share" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/details_website_layout"
+                style="@style/icon_layouts">
+
+                <ImageView
+                    android:id="@+id/details_website_image_view"
+                    style="@style/icon_imageview"
+                    android:src="@drawable/baseline_public_black_48" />
+
+                <TextView
+                    style="@style/icon_text"
+                    android:text="@string/website" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/details_directions_layout"
+                style="@style/icon_layouts">
+
+
+                <ImageView
+                    android:id="@+id/details_directions_image_view"
+                    style="@style/icon_imageview"
+                    android:src="@drawable/baseline_directions_black_48" />
+
+                <TextView
+                    style="@style/icon_text"
+                    android:text="@string/directions" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/bar"/>
+
+        <TextView
+            style="@style/main_text_style"
+            android:text="@string/about"
+            android:textStyle="bold|italic"/>
+
+
+
+        <TextView
+            android:id="@+id/details_about_text_view"
+            style="@style/main_text_style"
+            tools:text="Information about the Venue selected will be displayed here. It has extra
+            padding as the start and end unlike the others"
+            android:paddingBottom="20dp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"/>
+
+        <TextView
+            style="@style/bar" />
+
+        <RelativeLayout
+            android:id="@+id/details_telephone_text_layout"
+            style="@style/default_sub_layout">
+
+            <ImageView
+                android:id="@+id/telephone_small_icon"
+                android:src="@drawable/baseline_call_black_24"
+                style="@style/small_icon_before_text"/>
+
+            <TextView
+                style="@style/sub_text_textview"
+                android:id="@+id/sub_text_telephone_text_view"
+                android:layout_toEndOf="@+id/telephone_small_icon"
+                tools:text="0208 2542059"/>
+
+            <ImageView
+                android:id="@+id/copy_telephone_image"
+                style="@style/copy_icon_imageview"/>
+
+        </RelativeLayout>
+
+        <!-- address text with copy -->
+        <RelativeLayout
+            android:id="@+id/details_address_text_layout"
+            style="@style/default_sub_layout">
+
+            <ImageView
+                android:id="@+id/address_small_icon"
+                android:src="@drawable/baseline_directions_black_24"
+                style="@style/small_icon_before_text"/>
+
+            <TextView
+                style="@style/sub_text_textview"
+                android:id="@+id/sub_text_address_text_view"
+                android:layout_toEndOf="@+id/address_small_icon"
+                tools:text="52 Greenwich High Street, London, SE10 9LS"/>
+
+            <ImageView
+                android:id="@+id/copy_address_image"
+                style="@style/copy_icon_imageview" />
+
+        </RelativeLayout>
+
+        <!-- WEBSITE text with copy -->
+        <RelativeLayout
+            android:id="@+id/details_website_text_layout"
+            style="@style/default_sub_layout">
+
+            <ImageView
+                android:id="@+id/website_small_icon"
+                android:src="@drawable/baseline_public_black_24"
+                style="@style/small_icon_before_text"/>
+
+            <TextView
+                style="@style/sub_text_textview"
+                android:id="@+id/sub_text_webite_text_view"
+                android:layout_toEndOf="@+id/website_small_icon"
+                tools:text="www.vistgreenwich.co.uk"/>
+
+            <ImageView
+                style="@style/copy_icon_imageview"
+                android:id="@+id/copy_website_image" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>
