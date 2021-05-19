@@ -26,7 +26,7 @@ Completed on Monday the 10th - May - 2021
 - Java
 
 ## Demo ##
-A short video demo of the full app with different and relatient photos can be found [here](https://youtu.be/NvS4BvWE-Bs)on YouTube.
+A short video demo of the full app with different and relatient photos can be found [here](https://youtu.be/NvS4BvWE-Bs) on YouTube.
 
 ## Use of photo ##
 - One photo is used in this upload, this is because of file number and size issues with github.
